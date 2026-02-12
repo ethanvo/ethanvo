@@ -1,6 +1,5 @@
 Hi there, I'm Ethan A. Vo 👋
 I am a Ph.D. Theoretical and Computational Chemist based in New York, NY. I specialize in correlated electronic structure theory and atomistic modeling for extended systems, with a focus on developing high-accuracy methods within PySCF.
-+3
 
 🔬 Research Focus
 
@@ -9,10 +8,8 @@ My work bridges the gap between software development and advanced chemical physi
 Electronic Structure Theory: Developing and implementing periodic EOM-CCSD methods for high-accuracy predictions of semiconductor band gaps and core-level spectroscopy.
 
 Interfacial Chemistry: Integrating machine-learned force fields and coupled-cluster methods to model catalytic environments and battery interfaces.
-+3
 
 High-Performance Computing: Designing scalable algorithms for large-scale relativistic computations and extended systems.
-+1
 
 🛠️ Technical Stack
 
@@ -26,8 +23,7 @@ PyTorch NumPy SciPy pandas matplotlib
 
 HPC & Workflow
 
-SLURM Snakemake Git CMake 
-+1
+SLURM Snakemake Git CMake
 
 Math & Physics
 
@@ -68,12 +64,10 @@ Parikh, P., ... Vo, E., et al. (2022). Nanoscale Compositional Mapping of Commer
 🎓 Education
 
 Ph.D. in Chemical Physics | Columbia University (2020–2025) 
-+1
 
 Thesis: Correlated electronic structure theory for interfacial chemistry and excited states of extended systems.
 
 B.S. in Chemistry & Bioengineering | University of Washington (2016–2020) 
-+2
 
 📫 Connect with me
 
